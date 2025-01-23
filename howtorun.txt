@@ -1,0 +1,9 @@
+1. install nodejs from here : https://nodejs.org/en/download/package-manager/current
+ 
+2. open the files in vscode 
+
+3. open terminal type "npm install" in the terminal 
+
+4. after that type " node index.js" 
+
+5. the application will be accessible at http://localhost:3000/ on your browser 
